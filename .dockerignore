@@ -1,0 +1,9 @@
+.git
+**/__pycache__
+venv*
+.vscode
+
+src/examples/ckpt
+src/examples/ckpt/**/*
+src/examples/dump
+src/examples/dump/**/*
